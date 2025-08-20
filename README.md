@@ -5,21 +5,10 @@ It serves as a learning portfolio showcasing my progress and understanding of va
 
 ---
 
-# Singly Linked List in C++
+## Folder Structure
 
-- `push(Node*& head, int value)`  
-  Adds an element at the head of the list.
-
-- `pop(Node*& head)`  
-  Removes and returns the element at the head of the list.
-
-- `display(Node* head)`  
-  Prints all elements of the list.
-
-## How to run
-```bash
-g++ CPP/singly_linked_list.cpp -o singly_linked_list
-./singly_linked_list
-```
+- `CPP/` : C++ implementations (singly linked list, stack, queue)
+- `C/`   : C implementations
+- `Python/` : Python implementations
 
 ---
