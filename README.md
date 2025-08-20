@@ -7,7 +7,7 @@ It serves as a learning portfolio showcasing my progress and understanding of va
 
 ## Folder Structure
 
-- `CPP/` : C++ implementations (singly linked list, stack, queue)
+- `CPP/` : C++ implementations (Singly Linked List, Stack, Queue)
 - `C/`   : C implementations
 - `Python/` : Python implementations
 
