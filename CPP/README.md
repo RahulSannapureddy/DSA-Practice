@@ -1,8 +1,8 @@
 # C++ Implementations
 
 This folder contains implementations of data structures in C++:
-- `linked_list.cpp` : Singly Linked List
-- `stack.cpp`       : Stack using array
+- `singly_linked_list.cpp` : Singly Linked List
+- `stack.cpp`       : Stack using Linked List
 - `queue.cpp`       : Queue using linked list
 
 ---
