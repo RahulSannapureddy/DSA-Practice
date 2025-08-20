@@ -18,8 +18,8 @@ It serves as a learning portfolio showcasing my progress and understanding of va
 
 ## How to run
 ```bash
-g++ CPP/linked_list.cpp -o linked_list
-./linked_list
+g++ CPP/singly_linked_list.cpp -o singly_linked_list
+./singly_linked_list
 ```
 
 ---
